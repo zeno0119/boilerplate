@@ -1,13 +1,9 @@
 ---
-title: Say Hello to the world
-date: 2019-02-07
+title: 最初の投稿
+tag: C言語
+date: 2019-06-20
 ---
 
-## Hello world
-
-Welcome to GitPress. This is your first post.
-
-## Useful links
-
-- Website: https://gitpress.io
-- Getting Started: https://gitpress.io/c/help/welcome
+## お試しでpaizaに挑んでみた
+### 現状
+* C言語 Sランク
